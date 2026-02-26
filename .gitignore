@@ -6,3 +6,7 @@ __pycache__/
 .env
 db.sqlite3
 .DS_Store
+
+# Python virtual environments
+venv/
+.venv/
